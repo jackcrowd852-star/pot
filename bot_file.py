@@ -2493,10 +2493,10 @@ async def sub_select_plan(update: Update, context: ContextTypes.DEFAULT_TYPE):
     context.user_data["sub_plan"] = plan
 
    # ---- بيانات حساباتك الشخصية (مفصولة لمنع مشاكل المتصفح) ----
-    my_sham_account = "856a5eaa58c2f0deb108dfc2fb62bab0"
+    my_sham_account = "856"
     my_sham_inst = "الرجاء تحويل قيمة الباقة إلى حساب الشام كاش المذكور أعلاه، ثم إرسال لقطة شاشة للإيصال إلى الدعم."
     
-    my_bep20_wallet = "0x37db395483c03e45e20e233fccf0d87c91f679b5"
+    my_bep20_wallet = "0x3"
     my_bep20_inst = "الرجاء إرسال قيمة الباقة بالـ USDT عبر شبكة (BEP20) المذكورة أعلاه، وتزويد الدعم بهاش العملية."
 
     methods = [
