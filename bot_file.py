@@ -45,12 +45,12 @@ _ADMIN_IDS_ENV = os.environ.get("ADMIN_IDS", "").strip()
 if _ADMIN_IDS_ENV:
     ADMIN_IDS = [int(x.strip()) for x in _ADMIN_IDS_ENV.split(",") if x.strip()]
 else:
-    ADMIN_IDS = [6786975675765675]
-SUPPORT_USER = "@goldenboy95a"
+    ADMIN_IDS = [8312300160]
+SUPPORT_USER = "https://t.me/Xstakerobo"
 
 # ==================== إعدادات قناة الاشتراك الإجباري ====================
-CHANNEL_USERNAME = "@jumer26"
-CHANNEL_URL = "https://t.me/jumer26"
+CHANNEL_USERNAME = "@Xstakerobot"
+CHANNEL_URL = "https://t.me/Xstakerobot"
 
 # ==================== باقات الاشتراك ====================
 SUBSCRIPTION_PLANS = {
