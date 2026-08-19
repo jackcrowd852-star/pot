@@ -49,8 +49,8 @@ else:
 SUPPORT_USER = "https://t.me/Xstakerobo"
 
 # ==================== إعدادات قناة الاشتراك الإجباري ====================
-CHANNEL_USERNAME = "@Xstakerobot"
-CHANNEL_URL = "https://t.me/Xstakerobot"
+CHANNEL_USERNAME = "@jdjdjjdjududieiieu4u"
+CHANNEL_URL = "https://t.me/jdjdjjdjududieiieu4u"
 
 # ==================== باقات الاشتراك ====================
 SUBSCRIPTION_PLANS = {
